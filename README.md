@@ -1,4 +1,4 @@
-# Image Dataset Analyzer
+# EDA4ImageClassification
 
 A web-based tool for analyzing image datasets, providing insights into class distribution, image dimensions, RGB histograms, and more.
 
@@ -26,8 +26,8 @@ A web-based tool for analyzing image datasets, providing insights into class dis
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ImageDataset-Analyzer.git
-cd ImageDataset-Analyzer
+git clone https://github.com/edramos-lab/EDA4ImageClassification.git
+cd EDA4ImageClassification
 ```
 
 2. Create a virtual environment (optional but recommended):
